@@ -4,7 +4,7 @@
 <h1>About me</h1>
 
 - 🎒 I'm a recent graduate.
-- 💻 I'm majoring in computer science.
+- 💻 I'm majoring in business computer science.
 - 💚 I'm currently looking for work.
 - 📚 I'm currently learning Python.
 
